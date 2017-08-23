@@ -86,7 +86,6 @@ PowerMeterDataConnection.dll::input::PointDef30=strconst::;
 | 4\#冷冻泵PriChWP04 | S109AA1\_\_6号冷冻水泵 | 8005 |
 | 5\#冷冻泵PriChWP05 | S109AA1\_\_7号冷冻水泵 | 8004 |
 | 冷却塔CT01 | S105AA1\_\_大商业冷却塔 | 8056 |
-|  |  |  |
 
 
 
